@@ -87,8 +87,7 @@ main section article {
       margin-bottom: 10px;
 }
 main section article div {
-      background-color: white;
-      border: 1px solid blue;
+      border-top: 1px solid var(--gris-claro);
       padding: 15px;
 }
 
